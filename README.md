@@ -16,6 +16,8 @@ En attendant d'y être je continue d'apprendre plusieurs languages :
 Pour le moment j'ai un seul projet en cours, un serveur Minecraft PVP qui ressemble à un faction mais qui n'en est pas un.
 Si vous voulez en savoir plus sur celui-ci, je vous renvoie sur son Discord : https://discord.aquafight.fr
 
+Si vous avez besoin d'un plugin, d'une configuration, d'une traduction venez en privé sur Discord : **Nitroc#3092**
+
 <!--
 **Nitroc1701/Nitroc1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
