@@ -18,11 +18,9 @@ En attendant d'y être je continue d'apprendre plusieurs languages :
 Pour le moment j'ai un seul projet en cours, un serveur Minecraft PVP qui ressemble à un faction mais qui n'en est pas un ...
 Si vous voulez en savoir plus sur celui-ci, je vous renvoie sur son Discord. Je répondrais à toutes vos questions : https://discord.aquafight.fr
 
-Si vous avez besoin d'un plugin, d'une configuration, d'une traduction venez en privé sur Discord : **Nitroc#3092**
+### English Version :
 
-### English Version
-
-### Hello 👋
+### Hi 👋
 
 I'm Nitroc, I've been a Java developper for one year. I'm focusing on working on Minecraft servers only.
 
@@ -39,5 +37,3 @@ While waiting to be there I continue to learn several languages :
 
 I'm currently working on a single project, a Minecraft PVP server that looks like a faction but isn't one ...
 If you want to know more about it, go on the discord. I will answer all your questions : https://discord.aquafight.fr
-
-If you need a plugin, a configuration, a translation come in my private messages on Discord : **Nitroc#3092**
