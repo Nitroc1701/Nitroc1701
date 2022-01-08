@@ -20,7 +20,7 @@ If you want to know more about it, go on the discord. I will answer all your que
 
 My spigot plugins : https://www.spigotmc.org/members/nitroc.1027522/
 
-### Version francaise :
+### Version française :
 
 ### Bonjour 👋
 
