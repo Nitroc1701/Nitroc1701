@@ -41,3 +41,8 @@ Pour le moment j'ai un seul projet en cours, un serveur Minecraft PVP qui ressem
 Si vous voulez en savoir plus sur celui-ci, je vous renvoie sur son Discord. Je répondrais à toutes vos questions : https://discord.aquafight.fr
 
 Mes plugins spigot : https://www.spigotmc.org/members/nitroc.1027522/
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Nitroc1701&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  </br>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nitroc1701&layout=compact&theme=radical" />
+</div>
