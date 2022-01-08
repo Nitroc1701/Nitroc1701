@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm [Nitroc](https://nitroc.xyz), I've been a Java developper for two years. I'm focusing on working on Minecraft servers only.
+I'm [Nitroc](https://nitroc.xyz) 🇧🇪, I've been a Java developper for two years. I'm focusing on working on Minecraft servers only.
 
-Currently, I have a bachelor's degree in management informatics at IPL. With this I would like to lead to a master's degree in cybersecurity.
+Currently, I have a bachelor's degree in management IT at IPL. With this I would like to lead to a master's degree in cybersecurity.
 
 While waiting to be there I continue to learn several languages :
 
