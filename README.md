@@ -4,10 +4,6 @@
   
 
 ### <div align="center">I'm Nitroc, an IT student, studying at IPL Vinci. I want to become an analyst in cybersecurity.</div>  
-  
-
-- 🔭 I’m currently working on [XeraNetwork](https://xeranetwork.fr)  
-  
 
 - 🌱 I’m currently learning DevOps  
   
