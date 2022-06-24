@@ -1,83 +1,54 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+```bash
+┌──(nitroc1701㉿root)-[~/src]
+└─$ cat Main.java
+```
+```java
+import java.util.Arrays;
+import java.util.List;
 
-### <div align="center">I'm Nitroc, an IT student, studying at IPL Vinci. I want to become an analyst in cybersecurity.</div>  
+public class Main {
 
-- 🌱 I’m currently learning DevOps  
-  
+    private static String PREFIX = "[ReadMe] ";
 
-<br/>  
+    public static void main(String[] args) {
+        Project project =  new Project("EverBot", "a discord bot made to be fully customisable. Everything can be change.");
+        List<String> languagesKnown = Arrays.asList("Java", "JavaScript", "HTML/CSS", "PHP");
+        Developpeur developpeur = new Developpeur("Corentin", "Nitroc1701", 18, "DevOps", languagesKnown,"https://nitroc.xyz", project);
 
+        System.out.println(PREFIX + "Hello, I'm " + developpeur.getName() + " ( " + developpeur.getDisplayName() + " ).");
+        System.out.println(PREFIX + "I'm " + developpeur.getAge() + " years old.");
+        System.out.println(PREFIX + "I'm currently working on " + project.toString());
+        System.out.println(PREFIX + "I'm learning " + developpeur.getLearning() + ".");
+        System.out.println(PREFIX + "I know these languages :");
+        for (String language : developpeur.getLanguagesKnown()) {
+            System.out.println(" - " + language);
+        }
+        System.out.println(PREFIX + "If you want more detail about me and the different projects I've done, go visit my website : " + developpeur.getPortofolioLink());
+    }
+}
+```
+```bash
+┌──(nitroc1701㉿root)-[~/out]
+└─$ java -jar ReadMe.jar
+```
+```java
+[ReadMe] Hello, I'm Corentin ( Nitroc1701 ).
+[ReadMe] I'm 18 years old.
+[ReadMe] I'm currently working on Project@1b6d3586
+[ReadMe] I'm learning DevOps.
+[ReadMe] I know these languages :
+ - Java
+ - JavaScript
+ - HTML/CSS
+ - PHP
+[ReadMe] If you want more detail about me and the different projects I've done, go visit my website : https://nitroc.xyz
+```
+<div style="text-align: center;">
+  <a href="https://github.com/Nitroc1701">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitroc1701&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
+  </a>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Langages  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Frameworks  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/Nitroc1701" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>  
-</div>
-<div align="center">
-  <a href="https://discord.gg/C4zqyGKNpf" target="_blank">
-    <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-  </a>  
-</div> 
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nitroc1701&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Nitroc1701&&style=flat-square" align="center" />
+  <a href="https://github.com/Nitroc1701">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitroc1701&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="Nitroc1701's GitHub Stats" />
+  </a>
 </div>
