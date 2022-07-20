@@ -34,7 +34,7 @@ public class Main {
 ```java
 [ReadMe] Hello, I'm Corentin ( Nitroc1701 ).
 [ReadMe] I'm 18 years old.
-[ReadMe] I'm currently working on Project@1b6d3586
+[ReadMe] I'm currently working on EverBot - A discord bot made to be fully customisable. Everything can be changed.
 [ReadMe] I'm learning DevOps.
 [ReadMe] I know these languages :
  - Java
